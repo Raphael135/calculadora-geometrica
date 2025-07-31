@@ -49,7 +49,7 @@ do {
         return ((baseM + baseN) * altura) / 2;
       }
       alert("O resultado do trapézio é: " + trapezio());
-    case "4":
+    case "5":
       let n1 = prompt("Informe o número do círculo:");
 
       function numeroPi() {
